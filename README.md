@@ -2,6 +2,8 @@
 
 It is a animated ui, i have created just to practice only.
 
+live link: https://adarsh-kumar1108.github.io/Animated-ui/
+
 ## Tools used
 
 HTML
